@@ -1,2 +1,2 @@
 # Python-exercise
-Some exercises from "Curso em Video" to show my python skills
+Some exercises from "Curso em Video" to improve and show my python skills
